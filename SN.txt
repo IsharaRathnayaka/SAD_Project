@@ -1,0 +1,18 @@
+short Note
+
+Background-
+*What is Face unlock and fingerprint base ATM system
+
+*why we need 
+
+*how to use
+
+*features-
+1 login
+2 add pin code
+3 withdrawal of cash
+4 transfer of money
+5 view balance
+6 view transaction
+
+*Advantages
