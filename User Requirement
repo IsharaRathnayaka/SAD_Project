@@ -19,3 +19,12 @@ Features
 	Add Pin Code: - User must add pin code to do transactions.
 	Withdrawal of cash: - User can withdraw cash by entering the amount he wants to withdraw.
 	View Balance: - User can view balance which is available in his respective account
+•	Effectiveness:
+ATM is a must have item for all people. With the use of ATMs, people can make financial transactions in their daily lives and perform various related activities.
+The most common authentication mechanism used in ATMs has long been the card with a PIN for secure transactions. 
+But with the advancement of technology today, it is important for security ATMs to overcome the problem, as banking and ATM users are waking up and fearful.
+This study analyzes recent and popular authentication mechanisms related to ATM security and recommends a good solution from past studies to increase ATM security during the ATM certification process and to protect the ATM machine from illegal physical activity.
+This study compares different authentication mechanisms, including the classic PIN method, and recommends the best solution by weighing four key attributes: security performance, accuracy, cost, and flexibility in terms of security.
+Based on the total scores weighed by the comparison, this study recommends a safe solution as a combination of two methods from previous studies.
+A two-step verification system with PIN and Fingerprint or OTP with S-code has been identified as the best solution for authentication, as it is highly secure and flexible to users, and another mechanism with GPS and sensors was recommended to protect against illegal physics. 
+To provide activism and follow-up capability.
