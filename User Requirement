@@ -1,4 +1,14 @@
+User Requirement
 The user needs to define customer expectations in terms of objectives, environment, constraints, and measures of the effectiveness of the system. 
 The main users in this system are money depositors and cash withdrawals people, bill payment people, and administrators.
 •	Operational set- up:
-ATMs can significantly increase revenue for retailers, financial institutions, the hospitality industry, the sports industry and much more. Let's look at some of the businesses, industries, and locations where ATM placement works best. Banks, credit unions, and other financial institutions are among the first places people look for an ATM, Nightclubs and Bars, Hotels, Grocery Stores, Gas Stations, Festivals and Events, Casinos, Dispensaries.
+ATMs can significantly increase revenue for retailers, financial institutions, the hospitality industry, the sports industry and much more. 
+Let's look at some of the businesses, industries, and locations where ATM placement works best. Banks, credit unions, and other financial institutions are among the first places people look for an ATM, Nightclubs and Bars, Hotels, Grocery Stores, Gas Stations, Festivals and Events, Casinos, Dispensaries.
+•	Mission:
+ATM is a specialized computer that makes it easy for a bank account holder to manage funds.
+It allows a person to check account balances, withdraw or deposit money, print out a statement of account activities or transactions, and even purchase stamps.
+The main objective of this project is to provide fingerprinting as an authorized identity and to create a more secure ATM system There are several items located throughout the city that provide easy access to customer accounts.
+The financial institution to which the transaction takes place will issue a customer an ATM card and provide a Personal Identification Number (PIN) with the card for authorization to access their account. 
+But at present, PIN security is not sufficient to ensure the security of the customer's account. Also, the PIN number is not easy to remember and cannot be identified by people who do not know the concept.
+And a lot of people disbelieve Pins. We need to find a way to increase account security and authentication. For that we can use biometric features. 
+Fingerprint, face biometric features. The choice of biometrics depends on the requirements and verification of the application. Selection is based on fingerprints and faces.
