@@ -12,3 +12,10 @@ The financial institution to which the transaction takes place will issue a cust
 But at present, PIN security is not sufficient to ensure the security of the customer's account. Also, the PIN number is not easy to remember and cannot be identified by people who do not know the concept.
 And a lot of people disbelieve Pins. We need to find a way to increase account security and authentication. For that we can use biometric features. 
 Fingerprint, face biometric features. The choice of biometrics depends on the requirements and verification of the application. Selection is based on fingerprints and faces.
+•	Utilization:
+Fingerprint Based ATM is a desktop application that uses the user's fingerprint authentication. Fingerprint minutiae features vary from person to person so that the user can be uniquely identified. ATM Cards Instead of using fingerprint-based ATM cards, ATMs are safer and more secure.
+Features
+	Login: - User will login to the system using his fingerprint. 
+	Add Pin Code: - User must add pin code to do transactions.
+	Withdrawal of cash: - User can withdraw cash by entering the amount he wants to withdraw.
+	View Balance: - User can view balance which is available in his respective account
