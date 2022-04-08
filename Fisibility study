@@ -5,4 +5,9 @@ Proposed system.
 	Economic feasibility 
 	Operational feasibility
 	Schedule feasibility
+                  	Technical Feasibility
+Much of resource determination is related to technical feasibility assessment. It considers the technical requirements of the proposed project. 
+In Technical Feasibility study, one must test whether the proposed system can be developed using existing technology or not.
+It is planned to implement the proposed system using C# technology. It is evident that the necessary hardware and software are available for development and implementation of the proposed system.
+Hence, the solution is technically feasible. This project is a complete web-based application. the key technologies and tools that are combined with the system are,
 
