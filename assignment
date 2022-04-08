@@ -1,1 +1,39 @@
 An Automated Teller Machine (ATM) Is A Computerized Telecommunications Devices That Offer Financial Transactions Like Deposits, Transfers, Balance Inquiries, Mini Statements, Withdrawals, And Quick Cash To Clients Of Any Financial Institution. And Also This Process Does Not Require A Cashier, Bank Teller, Or Clerk To Be Present
+ATM Can Be Divided Into Two Parts Based On The Work Performed.
+1 Only Used To Withdraw Cash And To Receive A Balance Report.
+2 Used For Deposits And Money Transfers.
+People Usually Use The First Type Of ATM.
+Several Atms Are Located Throughout The Cities Providing Easy Access To The Clients’ Accounts. A Customer’s ATM Card Is Issued By The Financial Institution Where The Transaction Is To Be Performed, And They Are Given A Personal Identification Number (PIN) With The Card For Authorization To Access Their Account. But Nowadays, PIN Security Is Not Enough To Guarantee The Customer’s Account’s Security. And Also PIN May Not Be Easily Remembered And Recognized By People Who Are Not Familiar With The Concept. And Also A Lot Of People Distrust Pins. To Increase The Account’s Security And Authentication We Have To Find A Method. For That, We Can Use Biometric Characteristics. A Fingerprint, Hand Geometry, Iris, Retina, Ear, Voice, And Face Are Some Of The Biometric Characteristics.  Each Of These Features Has Its Advantages And Disadvantages, And The Selection Of Biometrics Depends On The Application’s Requirements And Authentication.  The Selection Is Made Based On Fingerprints And Faces.
+Face Unlock And Fingerprint-Based ATM System Is A Desktop Application Where The Face Or Fingerprint Of The User Is Used As Authentication. Biometric Fingerprints Have More Authentication Power Than Pins Because They Are Unique To Each Individual. But If Some People Can’t 
+Use Their Fingerprints Because Of Some Disabilities   Then, They Can Use Their Face For It. The Fingerprint Minutiae Functions And Iris Are Distinctive For Every Human Being So The User May Be Recognized Uniquely. Then Users Will Feel More At Ease When Face And Fingerprint Recognition Is Used Because Their Accounts Will Be Protected From Others And They Will Have Greater Peace Of Mind. 
+
+
+
+
+Why Fingerprint And Face
+The Reason For This Selection Can Be Summarized As Follows.
+Permanent – Time Doesn’t Change The Characteristics Of The Face Or Fingerprint. Structure-Wise, They Remain Unchanged Throughout The Fetal Stage.
+Storage – Storage Requirements For Fingerprint And Face Are Minimal
+Accuracy – Comparatively, Fingerprints And Faces Are More Accurate Than Other Biometrics.
+Inexpensive – It Is Relatively Inexpensive To Acquire, Operate, And Maintain Fingerprints And Faces. 
+Reliable – A Fingerprint And Iris Is Unique To Each Individual
+Universality – Every Person In The World Has A Fingerprint Or Face.
+How To Use
+In This Proposed System Customer Has Three Options.
+1 Fingerprint
+2 Face
+3 PIN 
+These Are Used For Authentication Purposes.
+First, Start The Cardless Menu At The ATM. Place Your Registered Finger On The Fingerprint Scanner Or Use Your Face To Webcam. If Your Face Or Fingerprint Fits With The Database Client Names Will Be Displayed On The ATM Machine.  After That, You Can Withdraw Money, View Your Account Balance, Transfer Money, Or Do Something Else.
+
+Features Of Face Unlock And Fingerprint-Based ATM System
+•	 Login – Logging Into The System Will Be Done Using The User’s Fingerprint Or Face
+•	 Add Pin Code – In Order To Make The Transaction, The User Must Scan Their Face Or Finger And Add A PIN Code
+•	Withdrawal Of Cash – The User Can Withdraw Cash By Entering The Amount He Wants To Withdraw
+•	 Transfer Of Money – By Entering The Account Number, A User Can Transfer Funds Between Accounts.
+•	 View Balance – Each User Is Able To See The Balance Available In Their Respective Accounts.
+•	 View Transaction – It Is Possible For Users To View The Five Most Recent Transactions.
+
+
+
+
